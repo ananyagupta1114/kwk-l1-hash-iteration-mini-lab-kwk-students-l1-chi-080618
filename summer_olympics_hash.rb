@@ -5,7 +5,7 @@ summer_olympics= {
 :London => 2012,    
 :Atlanta => 1996
 }
-
+summer_olympics.each do |x|
 puts summer_olympics
 
 def create_olympics_hash
