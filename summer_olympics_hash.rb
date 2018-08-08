@@ -6,7 +6,7 @@ summer_olympics= {
 :Atlanta => 1996
 }
 summer_olympics.each do |x|
-puts "The #{summer_olympics
+puts "The summer_olympics took place in 
 
 def create_olympics_hash
   # Implement this method so that it returns a hash with the data provided on README.md
