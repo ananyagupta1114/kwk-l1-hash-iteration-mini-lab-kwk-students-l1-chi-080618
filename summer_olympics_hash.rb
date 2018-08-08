@@ -9,6 +9,7 @@ summer_olympics= {
 summer_olympics.each do |x, y|
   puts "The #{y} summer_olympics took place in #{x}."
  end
+ 
 
 def create_olympics_hash
   # Implement this method so that it returns a hash with the data provided on README.md
